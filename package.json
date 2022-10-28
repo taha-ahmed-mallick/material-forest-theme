@@ -4,6 +4,17 @@
   "description": "A Green Theme matching with Forest, Being Light on Your Eyes!",
   "version": "0.0.1",
   "publisher": "TahaPublishers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taha-ahmed-mallick/material-forest-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "forest theme",
+    "material forest theme",
+    "good theme"
+  ],
   "engines": {
     "vscode": "^1.72.0"
   },
