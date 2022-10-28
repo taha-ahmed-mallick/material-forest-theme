@@ -1,6 +1,8 @@
 # Material Forset Theme For VS Code
 
-<img src="https://raw.githubusercontent.com/taha-ahmed-mallick/material-forest-theme/main/themes/logo-text.png" alt="logo" width="200" style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;">
+<img src="https://raw.githubusercontent.com/taha-ahmed-mallick/material-forest-theme/main/themes/logo-text.png" alt="logo" width="200" >
+</div>
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
