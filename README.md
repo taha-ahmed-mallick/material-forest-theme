@@ -10,4 +10,6 @@
 
 -- Theme For Visual Studio Code
 
+<img src="https://raw.githubusercontent.com/taha-ahmed-mallick/material-forest-theme/main/themes/sample.png" alt="sample">
+
 **Enjoy!**
