@@ -2,7 +2,7 @@
   "name": "material-forest-vscode",
   "displayName": "Material Forest VS Code",
   "description": "A Green Theme matching with Forest, Being Light on Your Eyes!",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "TahaPublishers",
   "icon": "./themes/logo.png",
   "repository": {
